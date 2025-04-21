@@ -24,7 +24,8 @@ Open terminal and try execute some kali linux commands
 Find out the ip address of the attackers system
 ## OUTPUT:
 
-![Alt text](<img/img 1.png>)
+![img 1](https://github.com/user-attachments/assets/6a1704b0-94c2-4445-9917-c3683804e3fe)
+
 
 Invoke msfconsole:
 ## OUTPUT:
